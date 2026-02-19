@@ -6,7 +6,7 @@
   xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0"
   xsi:type="MailApp">
 
-  <Id>a1b2c3d4-e5f6-7890-abcd-ef1234567890</Id>
+  <Id>7f3a9c1e-4b2d-4e8f-a6c5-9d0e1f2a3b4c</Id>
   <Version>1.0.0.0</Version>
   <ProviderName>Claude AI</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
