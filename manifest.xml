@@ -12,8 +12,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Claude Email Reviewer" />
   <Description DefaultValue="Review your email draft with Claude AI for grammar, tone, clarity, and professionalism." />
-  <IconUrl DefaultValue="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebsiteNew.jpg/32px-WebsiteNew.jpg" />
-  <HighResolutionIconUrl DefaultValue="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebsiteNew.jpg/64px-WebsiteNew.jpg" />
+  <IconUrl DefaultValue="https://wjlljo.github.io/email-reviewer/icon-32.png" />
+  <HighResolutionIconUrl DefaultValue="https://wjlljo.github.io/email-reviewer/icon-80.png" />
   <SupportUrl DefaultValue="https://www.anthropic.com" />
 
   <Hosts>
@@ -81,9 +81,9 @@
 
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://res.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/outlook_16x1.svg" />
-        <bt:Image id="Icon.32x32" DefaultValue="https://res.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/outlook_32x1.svg" />
-        <bt:Image id="Icon.80x80" DefaultValue="https://res.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/outlook_48x1.svg" />
+        <bt:Image id="Icon.16x16" DefaultValue="https://wjlljo.github.io/email-reviewer/icon-16.png" />
+        <bt:Image id="Icon.32x32" DefaultValue="https://wjlljo.github.io/email-reviewer/icon-32.png" />
+        <bt:Image id="Icon.80x80" DefaultValue="https://wjlljo.github.io/email-reviewer/icon-80.png" />
       </bt:Images>
       <bt:Urls>
         <bt:Url id="Commands.Url" DefaultValue="https://wjlljo.github.io/email-reviewer/commands.html" />
